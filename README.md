@@ -41,3 +41,5 @@ Some programs in this repository include:
 ```
 This library provides beginner-friendly functions for input and other utilities.
 These programs are intended to run on cs50.dev, CS50’s cloud IDE.
+
+## 🧠 This project was built with guidance and examples while I was learning C. I modified and tested everything myself to understand how it works.
